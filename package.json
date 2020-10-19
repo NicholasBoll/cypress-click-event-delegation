@@ -1,0 +1,11 @@
+{
+  "name": "cypress-click-event-delegation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nicholas Boll <nicholas.boll@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^5.4.0",
+    "cypress-pipe": "^2.0.0"
+  }
+}
